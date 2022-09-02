@@ -17,7 +17,7 @@ How to attempt this challenge:
 5) Push your solution to your repo
 You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
 
-##Solution
+## Solution
 
 ```
 1.git clone original-repo-url
@@ -29,7 +29,5 @@ You must follow these steps for your solution to be accepted -- forks or other m
 7. git checkout master
 8. git merge add-reverse
  then push code to repo.
-
-
 
 ```
